@@ -1,0 +1,34 @@
+BS7 PNEUS — SITE ONE PAGE
+========================
+
+COMO ABRIR
+1. Descompacte o ZIP mantendo todos os arquivos e pastas.
+2. Clique duas vezes em index.html para abrir no navegador.
+3. Para publicar, envie index.html, style.css, script.js e a pasta assets ao mesmo diretório de hospedagem.
+
+FUNCIONALIDADES
+- Página responsiva com seções Serviços, Sobre, Avaliações, Localização e Perguntas frequentes.
+- Todos os botões de WhatsApp apontam para (45) 99984-7448.
+- Nos cards de serviços, o WhatsApp abre com texto específico para cada serviço.
+- Links de avaliações e rotas abrem o perfil e a rota no Google Maps.
+- Mapa embutido do Google, FAQ interativo, menu para celular e horários expansíveis.
+- SEO básico e dados estruturados para negócio local.
+- Imagens exportadas do mockup fornecido, salvas localmente em assets/images.
+- Logo da BS7 incluída como imagem com proporção preservada.
+- Ícone do WhatsApp implementado em SVG vetorial, sem bibliotecas externas de ícones.
+
+NOTAS
+- O mapa carregado pelo Google e os destinos externos (WhatsApp, Instagram e Google Maps) exigem internet; o restante do site abre localmente.
+- A fonte Inter é buscada no Google Fonts quando há internet; caso contrário usa fonte sem serifa do sistema.
+- Dados públicos confirmados na pesquisa: Av. Carlos Gomes, 3540, Cascavel-PR; WhatsApp (45) 99984-7448; seg. a sex. 08h-18h e sáb. 08h-12h.
+- O Instagram exibido é o identificado no mockup entregue; confirme se o perfil está correto antes de publicar.
+- As imagens do mockup podem ser ilustrativas; solicite fotos oficiais do cliente antes de usar publicamente como registros reais da empresa.
+
+EDITAR CONTATO
+Altere todas as ocorrências de '5545999847448' em index.html e o valor 'whatsapp' em script.js.
+
+ARQUIVOS
+- index.html: estrutura e SEO
+- style.css: aparência e responsividade
+- script.js: funcionalidades leves
+- assets/images: imagens e logo
